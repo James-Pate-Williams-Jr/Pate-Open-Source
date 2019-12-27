@@ -1,0 +1,9 @@
+c:\users\james\documents\visual studio 2015\Projects\Exterior Ballistics Page 41\Exterior Ballistics Page 41\bin\Debug\Exterior Ballistics Page 41.exe.config
+c:\users\james\documents\visual studio 2015\Projects\Exterior Ballistics Page 41\Exterior Ballistics Page 41\bin\Debug\Exterior Ballistics Page 41.exe
+c:\users\james\documents\visual studio 2015\Projects\Exterior Ballistics Page 41\Exterior Ballistics Page 41\bin\Debug\Exterior Ballistics Page 41.pdb
+c:\users\james\documents\visual studio 2015\Projects\Exterior Ballistics Page 41\Exterior Ballistics Page 41\obj\Debug\Exterior Ballistics Page 41.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2015\Projects\Exterior Ballistics Page 41\Exterior Ballistics Page 41\obj\Debug\Exterior_Ballistics_Page_41.Form1.resources
+c:\users\james\documents\visual studio 2015\Projects\Exterior Ballistics Page 41\Exterior Ballistics Page 41\obj\Debug\Exterior_Ballistics_Page_41.Properties.Resources.resources
+c:\users\james\documents\visual studio 2015\Projects\Exterior Ballistics Page 41\Exterior Ballistics Page 41\obj\Debug\Exterior Ballistics Page 41.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2015\Projects\Exterior Ballistics Page 41\Exterior Ballistics Page 41\obj\Debug\Exterior Ballistics Page 41.exe
+c:\users\james\documents\visual studio 2015\Projects\Exterior Ballistics Page 41\Exterior Ballistics Page 41\obj\Debug\Exterior Ballistics Page 41.pdb
